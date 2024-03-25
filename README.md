@@ -1,8 +1,8 @@
 # BlueLifeRP - Webinterface
-Das BlueLife Webinterface wurde von Niclas Kedzierski entwickelt.
+Das BlueLife Webinterface wurde von Niclas Kedzierski entwickelt und von Tim Q weiterentwickelt.
 
 ## Copyright
->Copyright ©2020-2021 Niclas Kedzierski
+>Copyright ©2020-2024 Tim Q.
 >
 >Alle Rechte vorbehalten. Kein Teil dieses Internetangebots darf in irgendeiner Form ohne vorherige schriftliche Genehmigung der Autoren reproduziert oder unter
 >Verwerndung elektronischer Systeme verarbeitet, vervielfältigt oder verbreitet werden.
@@ -42,4 +42,4 @@ Das BlueLife Webinterface wurde von Niclas Kedzierski entwickelt.
 > Juckt mich nicht, wenn du ein Problem hast schreib mich an
 >
 > ### 6. XY nutzt dein System, obwohl die hier nicht aufgelistet sind!
-> Dann schreib mich an oder komm auf meinem Discord dsc.gg/cityv (Ich liebe Rechtsstreit)
+> Dann schreib mich an: timdev511 (Discord)
